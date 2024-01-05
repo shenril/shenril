@@ -1,8 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Florent
-===============================================================================================================================Security Consultant & DevSecOps advocate----------------------------------------Worked on various projects during the last 15 years of careers. Strong advocate for DevSecOps, focus on security to deliver value and unleashing the super powers of developers to create new ideas and concepts safely.* 🌍  I'm based in Tokyo, Japan* ✉️  You can contact me at [florent.batard@gmail.com](mailto:florent.batard@gmail.com)* 🚀  I'm currently working on [Blue Squadron, a collective for Security Professionals](http://blue-squadron.com)* 🧠  I'm learning VueJS,Symfony7, Pydantic, FastAPI, Rust* 🤝  I'm open to collaborating on Security, collective platform* ⚡  Paragliding fan, food lover
+===============================================================================================================================
+Security Consultant & DevSecOps advocate
+----------------------------------------
+
+Worked on various projects during the last 15 years of careers. Strong advocate for DevSecOps, focus on security to deliver value and unleashing the super powers of developers to create new ideas and concepts safely.
+
+* 🌍  I'm based in Tokyo, Japan
+* ✉️  You can contact me at [florent.batard@gmail.com](mailto:florent.batard@gmail.com)
+* 🚀  I'm currently working on [Blue Squadron, a collective for Security Professionals](http://blue-squadron.com)
+* 🧠  I'm learning VueJS,Symfony7, Pydantic, FastAPI, Rust
+* 🤝  I'm open to collaborating on Security, collective platform
+* ⚡  Paragliding fan, food lover
 
 <a href="https://www.github.com//shenril" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers//shenril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shenril" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/shenril?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/shenril" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers//shenril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shenril" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/shenril?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/shenril" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/shenril?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
