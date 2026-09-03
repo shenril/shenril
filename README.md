@@ -7,8 +7,8 @@ Worked on various projects during the last 15 years of careers. Strong advocate 
 
 * 🌍  I'm based in Tokyo, Japan
 * ✉️  You can contact me at [florent.batard@gmail.com](mailto:florent.batard@gmail.com)
-* 🚀  I'm currently working on [Blue Squadron, a collective for Security Professionals](http://blue-squadron.com)
-* 🧠  I'm learning VueJS,Symfony7, Pydantic, FastAPI, Rust
+* 🚀  I'm currently working on [Blue Squadron, a collective for Security Professionals](http://bluesquadron.dev)
+* 🧠  I'm learning Rust, VueJS, Symfony7, Pydantic, FastAPI
 * 🤝  I'm open to collaborating on Security, collective platform
 * ⚡  Paragliding fan, food lover
 
