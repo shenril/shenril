@@ -12,8 +12,8 @@ Worked on various projects during the last 15 years of careers. Strong advocate 
 * 🤝  I'm open to collaborating on Security, collective platform
 * ⚡  Paragliding fan, food lover
 
-<a href="https://www.github.com//shenril" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers//shenril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shenril" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/shenril?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/shenril" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/shenril" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/shenril?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/shenril" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/shenril?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/shenril" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/shenril?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
@@ -27,4 +27,10 @@ src="https://img.shields.io/twitch/status/shenril?logo=twitchsx&style=for-the-ba
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <ul>
+    <li>Majlis, personal counseling agents crew</li>
+    <li>Sitadel, Website Security Scanner</li>
+    <li>Owasp ASVS Checklist, ASVS-5.0.0 as a checklist</li>
+  </ul>
+</div><br /><br /><br /><br /><br /><br /><br />
